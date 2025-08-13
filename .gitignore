@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+# Virtual env
+venv/
+.env
+
+# Static & media
+staticfiles/
+media/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Binaries
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.pdf
+*.zip
+*.xls
+*.xlsx
+*.xlsm
